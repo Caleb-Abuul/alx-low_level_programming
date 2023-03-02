@@ -2,8 +2,6 @@
 /**
 * jack_bauer - prints every minute of Jack Bauer
 * life
-* @h: the hours
-* @m: the minutes
 * Return: always 0 (success)
 */
 void jack_bauer(void)
