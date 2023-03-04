@@ -1,8 +1,9 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * print_to_98 - print natural numbers to 98.
 * @n: a nagural number
-* Return: always 0 (success)
+* Return: returns nothing
 */
 void print_to_98(int n)
 {
