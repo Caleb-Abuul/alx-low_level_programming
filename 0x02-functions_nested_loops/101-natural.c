@@ -12,7 +12,7 @@ int main(void)
 	{
 		if (n % 15 == 0)
 		{
-			res += 1;
+			res += n;
 		}
 	}
 	printf("%d\n", res);
