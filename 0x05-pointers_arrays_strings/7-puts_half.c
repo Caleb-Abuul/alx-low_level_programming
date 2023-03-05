@@ -4,6 +4,7 @@
 * character id odd
 * @str: string to be halved
 */
+void puts_half(char *str)
 {
 	int len, n, i;
 
