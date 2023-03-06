@@ -11,5 +11,6 @@ int _strncmp(char *s1, char *s2, unsigned int b);
 void print_chessboard(char (*a)[8]);
 int _putchar(char c);
 void print_diagsums(int *a, int size);
+void set_string(char **s, char *to);
 
 #endif
