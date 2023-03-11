@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
 * main - multiolies two integers
 * @argc: argument count
